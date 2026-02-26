@@ -1,4 +1,4 @@
-# 🔍 LeakData.org - Mobile Number Tracker & Data Breach Checker
+# 🔍 Data.org - Mobile Number & info
 
 A powerful, privacy-focused web application built with **Next.js 16** that allows users to track Indian mobile number locations and check if their personal data has been compromised in data breaches. Featuring an interactive map interface, real-time geocoding, and comprehensive privacy controls.
 
@@ -9,7 +9,7 @@ A powerful, privacy-focused web application built with **Next.js 16** that allow
 
 ## 🌟 Features
 
-- **📱 Mobile Number Tracking**: Track any Indian 10-digit mobile number location instantly
+- **📱 Sim info**: Track any Indian 10-digit mobile number location instantly
 - **📧 Email Breach Check**: Verify if your email has been exposed in data leaks
 - **🗺️ Interactive Map**: Beautiful OpenStreetMap integration with smooth zoom animations
 - **🔒 Privacy-First**: Hide your data from search results with one click
@@ -21,8 +21,6 @@ A powerful, privacy-focused web application built with **Next.js 16** that allow
 - **📈 Analytics**: Google Analytics integration for insights
 
 ## 🚀 Live Demo
-
-Visit the live application: [https://leakdata.org](https://leakdata.org)
 
 ## 📋 Table of Contents
 
@@ -504,7 +502,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For issues, questions, or suggestions:
 
 - Create an issue: [GitHub Issues](https://github.com/yenbook/proxyearth/issues)
-- Email: contact@leakdata.org
+- Email: contact@data.org
 
 ---
 
